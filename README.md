@@ -8,7 +8,7 @@
 </div>
 
 
-# 👋 Hey there, I'm Christoph!
+# 👋 Hey there, I'm Christoph! [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoph-hollweck-5962ab231/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hollweck.christoph@gmail.com)
 
 I'm a mechanical engineer and PhD student at **TUM** and **OTH**.  
 My passion lies in computational mechanics, isogeometric analysis (IGA), and numerical methods.  
@@ -41,11 +41,4 @@ My mission: solving complex engineering problems with elegance and efficiency.
   - **Prof. Dr.-Ing. Marcus Wagner**  
     Labor Finite Elemente Methode, OTH  
     [Visit Laboratory Website](https://maschinenbau.oth-regensburg.de/labore/fem)
-
----
-
-## 📫 Get in Touch!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoph-hollweck-5962ab231/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hollweck.christoph@gmail.com)
-
 
