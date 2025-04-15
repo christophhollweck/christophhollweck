@@ -25,15 +25,13 @@ My mission: solving complex engineering problems with elegance and efficiency.
   - Adaptive refinement & local mesh refinement
   - Nonlinear explicit dynamics
   - Sheet metal forming
-    
+---   
  
   <div align="left">
     <img src="./basis.png" alt="Basis" height="300"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./Gengar.png" alt="Gengar" height="300"/>
   </div>
-
-- 💻 Coding in **Python**.
 
 - 🎓 Supervised by:
   - **Prof. Dr.-Ing. habil. Roland Wüchner**  
