@@ -24,9 +24,9 @@ My mission: solving complex engineering problems with elegance and efficiency.
   - Sheet metal forming
  
   <div align="left">
-    <img src="./basis.png" alt="Basis" height="350"/>
+    <img src="./basis.png" alt="Basis" height="300"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./Gengar.png" alt="Gengar" height="350"/>
+    <img src="./Gengar.png" alt="Gengar" height="300"/>
   </div>
 
 - 💻 Coding in **Python**.
