@@ -1,11 +1,13 @@
 <div align="left">
   <a href="https://www.tum.de" target="_blank">
-    <img src="./tum.png" alt="TUM Logo" height="80" style="vertical-align:middle; margin-right:50px;"/>
+    <img src="./tum.png" alt="TUM Logo" height="80" style="vertical-align:middle;"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.oth-regensburg.de" target="_blank">
     <img src="./oth.jpg" alt="OTH Regensburg Logo" height="80" style="vertical-align:middle;"/>
   </a>
 </div>
+
 
 
 # 👋 Hey there, I'm Christoph! [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoph-hollweck-5962ab231/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hollweck.christoph@gmail.com)
