@@ -26,7 +26,7 @@ My mission: solving complex engineering problems with elegance and efficiency.
   - Nonlinear explicit dynamics
   - Sheet metal forming
 
-     
+---
  
   <div align="left">
     <img src="./basis.png" alt="Basis" height="300"/>
@@ -34,7 +34,7 @@ My mission: solving complex engineering problems with elegance and efficiency.
     <img src="./Gengar.png" alt="Gengar" height="300"/>
   </div>
 
-     
+   ---
 
 - 🎓 Supervised by:
   - **Prof. Dr.-Ing. habil. Roland Wüchner**  
