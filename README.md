@@ -7,7 +7,7 @@
 
 # 👋 Hey there, I'm Christoph!
 
-I'm a mechanical engineer, research associate and PhD student at TUM and OTH.  
+I'm a mechanical engineer and PhD student at **TUM** and **OTH**.  
 My passion lies in computational mechanics, isogeometric analysis (IGA), and numerical methods.  
 My mission: solving complex engineering problems with elegance and efficiency.
 
@@ -31,9 +31,13 @@ My mission: solving complex engineering problems with elegance and efficiency.
 
 - 💻 Coding in **Python**.
 
-- 🎓 Supervised by **Prof. Dr.-Ing. habil. Roland Wüchner**  
-Chair of Structural Analysis (Lehrstuhl für Statik und Dynamik), TUM  
-[Visit Chair Website](https://www.cee.ed.tum.de/st/startseite/)
+- 🎓 Supervised by:
+  - **Prof. Dr.-Ing. habil. Roland Wüchner**  
+    Chair of Structural Analysis (Lehrstuhl für Statik und Dynamik), TUM  
+    [Visit Chair Website](https://www.cee.ed.tum.de/st/startseite/)
+  - **Prof. Dr.-Ing. Marcus Wagner**  
+    Labor Finite Elemente Methode, OTH  
+    [Visit Laboratory Website](https://maschinenbau.oth-regensburg.de/labore/fem)
 
 ---
 
