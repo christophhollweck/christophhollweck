@@ -25,6 +25,7 @@ My mission: solving complex engineering problems with elegance and efficiency.
   - Adaptive refinement & local mesh refinement
   - Nonlinear explicit dynamics
   - Sheet metal forming
+    
  
   <div align="left">
     <img src="./basis.png" alt="Basis" height="300"/>
