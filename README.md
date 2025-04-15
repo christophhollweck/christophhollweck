@@ -40,5 +40,5 @@ Chair of Structural Analysis (Lehrstuhl für Statik und Dynamik), TUM
 ## 📫 Get in Touch!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/christoph-hollweck-5962ab231/)
-- 📧 Email: your.name@example.com
+- 📧 Email: hollweck.christoph@gmail.com
 
