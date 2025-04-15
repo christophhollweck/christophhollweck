@@ -1,3 +1,10 @@
+<div align="left">
+  <img src="./tum.png" alt="TUM Logo" height="70"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./oth.jpg" alt="OTH Regensburg Logo" height="70"/>
+</div>
+
+
 # 👋 Hey there, I'm Christoph!
 
 I'm a mechanical engineer, research associate and PhD student at TUM and OTH.  
@@ -15,8 +22,14 @@ My mission: solving complex engineering problems with elegance and efficiency.
   - Adaptive refinement & local mesh refinement
   - Nonlinear explicit dynamics
   - Sheet metal forming
+ 
+  <div align="left">
+    <img src="./basis.png" alt="Basis" height="350"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./Gengar.png" alt="Gengar" height="350"/>
+  </div>
 
-- 💻 Coding in **Python**, with a focus on **FEM** and **IGA**.
+- 💻 Coding in **Python**.
 
 - 🎓 Supervised by **Prof. Dr.-Ing. habil. Roland Wüchner**  
 Chair of Structural Analysis (Lehrstuhl für Statik und Dynamik), TUM  
