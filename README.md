@@ -31,9 +31,9 @@ My mission: solving complex engineering problems with elegance and efficiency.
 ---
  
   <div align="left">
-    <img src="./basis.png" alt="Basis" height="200"/>
+    <img src="./basis.png" alt="Basis" height="350"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./Gengar.png" alt="Gengar" height="200"/>
+    <img src="./Gengar.png" alt="Gengar" height="350"/>
   </div>
 
    ---
