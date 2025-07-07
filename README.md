@@ -1,10 +1,10 @@
 <div align="left">
   <a href="https://www.tum.de" target="_blank">
-    <img src="./tum.png" alt="TUM Logo" height="1" style="vertical-align:middle;"/>
+    <img src="./tum.png" alt="TUM Logo" height="50" style="vertical-align:middle;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.oth-regensburg.de" target="_blank">
-    <img src="./oth.jpg" alt="OTH Regensburg Logo" height="1" style="vertical-align:middle;"/>
+    <img src="./oth.jpg" alt="OTH Regensburg Logo" height="50" style="vertical-align:middle;"/>
   </a>
 </div>
 
@@ -31,9 +31,9 @@ My mission: solving complex engineering problems with elegance and efficiency.
 ---
  
   <div align="left">
-    <img src="./basis.png" alt="Basis" height="5"/>
+    <img src="./basis.png" alt="Basis" height="500"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./Gengar.png" alt="Gengar" height="5"/>
+    <img src="./Gengar.png" alt="Gengar" height="500"/>
   </div>
 
    ---
