@@ -1,10 +1,10 @@
 <div align="left">
   <a href="https://www.tum.de" target="_blank">
-    <img src="./tum.png" alt="TUM Logo" height="100" style="vertical-align:middle;"/>
+    <img src="./tum.png" alt="TUM Logo" height="80" style="vertical-align:middle;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.oth-regensburg.de" target="_blank">
-    <img src="./oth.jpg" alt="OTH Regensburg Logo" height="100" style="vertical-align:middle;"/>
+    <img src="./oth.jpg" alt="OTH Regensburg Logo" height="80" style="vertical-align:middle;"/>
   </a>
 </div>
 
