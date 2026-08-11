@@ -42,9 +42,9 @@ The framework is currently used for ongoing research and is therefore not yet pu
 The visualizations below were generated with **IGAEasy**.
 
 <div align="left">
-  <img src="./basis.png" alt="Spline basis functions generated with IGAEasy" height="350"/>
+  <img src="./basis.png" alt="Spline basis functions generated with IGAEasy" height="300"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./Gengar.png" alt="Trimmed isogeometric geometry generated with IGAEasy" height="350"/>
+  <img src="./Gengar.png" alt="Trimmed isogeometric geometry generated with IGAEasy" height="300"/>
 </div>
 
 ## Selected Publications
