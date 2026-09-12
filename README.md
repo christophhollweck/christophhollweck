@@ -55,6 +55,10 @@ The visualizations below were generated with **IGAEasy**.
 [**An analysis of the critical time step size for explicit dynamics using trimmed B-splines, LR-splines, and THB-splines**](https://doi.org/10.1016/j.cma.2025.118656)  
 *Computer Methods in Applied Mechanics and Engineering*, 450, 118656, 2026.
 
+**C. Hollweck, L. F. Leidinger, S. Hartmann, M. Wagner, R. Wüchner**  
+[**Boundary-Level-Constrained Refinement for Suppressing Trimming-Induced High-Frequency Outliers in Explicit Isogeometric Analysis**](https://arxiv.org/abs/2609.10161)  
+arXiv:2609.10161, 2026. Under review at *Computer Methods in Applied Mechanics and Engineering*.
+
 ### Local Refinement and Shifted Boundary Method
 
 **C. Hollweck, A. Gorgi, N. Antonelli, M. Wagner, R. Wüchner**  
