@@ -12,6 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christoph_Hollweck-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoph-hollweck-5962ab231/)
 [![Email](https://img.shields.io/badge/Email-hollweck.christoph%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hollweck.christoph@gmail.com)
+[![IGAeasy](https://img.shields.io/badge/GitHub-IGAeasy-181717?style=flat&logo=github&logoColor=white)](https://github.com/christophhollweck/IGAeasy)
 
 PhD candidate in **Computational Mechanics** at the **Technical University of Munich** and research associate at **OTH Regensburg**.
 
@@ -26,25 +27,34 @@ My research focuses on numerical methods for **isogeometric analysis (IGA)** and
 - CAD and B-rep geometry processing
 - Trimmed and multi-patch spline geometries
 - LR-splines and THB-splines
-- Local \(h\)-, \(p\)-, and \(k\)-refinement
+- Local h-, p-, and k-refinement
 - Shell formulations
 - Critical time-step analysis and mass scaling
 - Sheet-metal forming
 
-## IGAEasy
+## IGAeasy
 
-I am the developer of **IGAEasy**, a Python-based research software framework for isogeometric analysis and computational mechanics.
+I develop **[IGAeasy](https://github.com/christophhollweck/IGAeasy)**, an open-source Python framework for isogeometric structural analysis.
 
-IGAEasy supports my doctoral research in areas including CAD/B-rep and spline geometry processing, local refinement, shell formulations, numerical analysis, scientific visualization, and simulation workflows.
+The framework connects my research in computational mechanics with scientific software development. Its modular structure covers geometry, spline discretization, numerical integration, assembly, solution, and interactive postprocessing.
 
-The framework is currently used for ongoing research and is therefore not yet publicly available. **A public release is planned toward the completion of my PhD.**
+The current public release focuses on **linear static membranes and shells**, with support for:
 
-The visualizations below were generated with **IGAEasy**.
+- **Locally refined LR- and THB-splines**
+- **Fitted and trimmed geometries**
+- **Membrane, Reissner-Mindlin shell, and Kirchhoff-Love shell formulations**
+- **Verification through analytical and manufactured solutions, convergence studies, structural benchmarks, and automated regression tests**
+
+The repository includes runnable examples, verification studies, and documentation of the supported formulations and known limitations.
+
+**[Explore the repository, examples, and documentation →](https://github.com/christophhollweck/IGAeasy)**
+
+The visualizations below were generated with **IGAeasy**.
 
 <div align="left">
-  <img src="./basis.png" alt="Spline basis functions generated with IGAEasy" height="300"/>
+  <img src="./basis.png" alt="Spline basis functions generated with IGAeasy" height="300"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./Gengar.png" alt="Trimmed isogeometric geometry generated with IGAEasy" height="300"/>
+  <img src="./Gengar.png" alt="Trimmed isogeometric geometry generated with IGAeasy" height="300"/>
 </div>
 
 ## Selected Publications
